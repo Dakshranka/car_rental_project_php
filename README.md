@@ -1,8 +1,5 @@
 # Car Rental Project
 
-## Owner
-Daksh Ranka
-
 ## Description
 This is a Car Rental Management System built using PHP, HTML, CSS, and MySQL. The project allows users to book cars, manage bookings, make payments, and provide feedback. It includes both user and admin dashboards for managing vehicles, users, and bookings.
 
